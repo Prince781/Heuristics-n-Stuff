@@ -1,6 +1,9 @@
 Heuristics 'n Stuff
 ===================
 
+##Example No. 1
+Analyzes a stepwise titration according to a pH curve.
+
 ##Assignment No. 3
 Create a solver for the [Perceptrons](http://en.wikipedia.org/wiki/Perceptrons) scenario, demonstrating the ability of learning.
 * Implementation ( **done - may need rewrite** )
